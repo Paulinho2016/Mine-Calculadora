@@ -1,0 +1,30 @@
+C:\Users\linho\source\repos\Calculadora\SistemaGUI\obj\Debug\SistemaGUI.csprojResolveAssemblyReference.cache
+C:\Users\linho\source\repos\Calculadora\SistemaGUI\obj\Debug\SistemaGUI.Calculadora.resources
+C:\Users\linho\source\repos\Calculadora\SistemaGUI\obj\Debug\SistemaGUI.Properties.Resources.resources
+C:\Users\linho\source\repos\Calculadora\SistemaGUI\obj\Debug\SistemaGUI.csproj.GenerateResource.Cache
+C:\Users\linho\source\repos\Calculadora\SistemaGUI\obj\Debug\SistemaGUI.csproj.CoreCompileInputs.cache
+E:\Projetos\C#\Calculadora\SistemaGUI\bin\Debug\Mini Calculadora.exe.config
+E:\Projetos\C#\Calculadora\SistemaGUI\bin\Debug\Mini Calculadora.exe.manifest
+E:\Projetos\C#\Calculadora\SistemaGUI\bin\Debug\Mini Calculadora.application
+E:\Projetos\C#\Calculadora\SistemaGUI\bin\Debug\Mini Calculadora.exe
+E:\Projetos\C#\Calculadora\SistemaGUI\bin\Debug\Mini Calculadora.pdb
+E:\Projetos\C#\Calculadora\SistemaGUI\obj\Debug\SistemaGUI.csprojResolveAssemblyReference.cache
+E:\Projetos\C#\Calculadora\SistemaGUI\obj\Debug\SistemaGUI.Calculadora.resources
+E:\Projetos\C#\Calculadora\SistemaGUI\obj\Debug\SistemaGUI.Properties.Resources.resources
+E:\Projetos\C#\Calculadora\SistemaGUI\obj\Debug\SistemaGUI.csproj.GenerateResource.cache
+E:\Projetos\C#\Calculadora\SistemaGUI\obj\Debug\SistemaGUI.csproj.CoreCompileInputs.cache
+E:\Projetos\C#\Calculadora\SistemaGUI\obj\Debug\Mini Calculadora.TrustInfo.xml
+E:\Projetos\C#\Calculadora\SistemaGUI\obj\Debug\Mini Calculadora.exe.manifest
+E:\Projetos\C#\Calculadora\SistemaGUI\obj\Debug\Mini Calculadora.application
+E:\Projetos\C#\Calculadora\SistemaGUI\obj\Debug\Mini Calculadora.exe
+E:\Projetos\C#\Calculadora\SistemaGUI\obj\Debug\Mini Calculadora.pdb
+C:\Users\linho\source\repos\Calculadora\SistemaGUI\bin\Debug\Mini Calculadora.exe.config
+C:\Users\linho\source\repos\Calculadora\SistemaGUI\bin\Debug\Mini Calculadora.exe.manifest
+C:\Users\linho\source\repos\Calculadora\SistemaGUI\bin\Debug\Mini Calculadora.application
+C:\Users\linho\source\repos\Calculadora\SistemaGUI\bin\Debug\Mini Calculadora.exe
+C:\Users\linho\source\repos\Calculadora\SistemaGUI\bin\Debug\Mini Calculadora.pdb
+C:\Users\linho\source\repos\Calculadora\SistemaGUI\obj\Debug\Mini Calculadora.TrustInfo.xml
+C:\Users\linho\source\repos\Calculadora\SistemaGUI\obj\Debug\Mini Calculadora.exe.manifest
+C:\Users\linho\source\repos\Calculadora\SistemaGUI\obj\Debug\Mini Calculadora.application
+C:\Users\linho\source\repos\Calculadora\SistemaGUI\obj\Debug\Mini Calculadora.exe
+C:\Users\linho\source\repos\Calculadora\SistemaGUI\obj\Debug\Mini Calculadora.pdb
